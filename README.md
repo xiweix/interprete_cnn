@@ -1,7 +1,9 @@
-# Comparative Study of Convolutional Neural Networks
+# A Visual Analytics System for CNN Interpretation
 ####      Final project of ECS 289H 002 Visual Analytics
 
-A visual analytics system for interactive comparative study of user-defined Convolutional Neural Networks.
+A visual analytics system for comparing and interpreting user-defined Convolutional Neural Networks.
+
+The system is applied on the MNIST dataset.
 
 ## Dependencies
 #### Front End
